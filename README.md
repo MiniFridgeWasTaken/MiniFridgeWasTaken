@@ -1,5 +1,4 @@
--  @MiniFridgeWasTaken
--  i code for fun
+-  I code random things yes... alot of random things
 
 <!---
 MiniFridgeWasTaken/MiniFridgeWasTaken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
